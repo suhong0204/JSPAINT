@@ -1,1 +1,1 @@
-![ex_screenshot](./JSPAINT.png)
+![ex_screenshot](./jsjs.png)
