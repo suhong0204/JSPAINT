@@ -1,2 +1,1 @@
-# JSPAINT
-Paint made with JavaScript.
+![ex_screenshot](./github/jspaint.png)
