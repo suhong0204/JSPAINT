@@ -1,4 +1,6 @@
 ![ex_screenshot](./JSJS.png)
 
+About how to use it
+=============
 
-<img src="./jspaint.gif" width="1440" height="600" />
+* Ld
