@@ -1,4 +1,4 @@
 ![ex_screenshot](./JSJS.png)
 
 
-<img src="./jspaint.gif" width="800" height="600" />
+<img src="./jspaint.gif" width="1000" height="600" />
