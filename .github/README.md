@@ -1,1 +1,1 @@
-![ex_screenshot](./.github/jsjs.png)
+![ex_screenshot](./.github/JSJS.png)
