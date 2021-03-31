@@ -7,3 +7,5 @@ About how to use it?
 * Drag the index.html of the file to Chrome.
 
 <img src="./jspaint.gif" width="1400" height="700" />
+
+`Copyright ⓒ 2021 nomad-coders all rights reserved.`
