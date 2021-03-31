@@ -1,1 +1,1 @@
-![ex_screenshot](./.github/jspaint.png)
+![ex_screenshot](./JSPAINT.png)
